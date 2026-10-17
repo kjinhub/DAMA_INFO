@@ -26,7 +26,7 @@
 
 ---
 
-[최신 업데이트](https://github.com/kjinhub/DAMA_INFO/releases/latest) · [전체 업데이트 기록](CHANGELOG.md) · [사용 안내](docs/USAGE.md) · [오류 제보·기능 제안](https://github.com/kjinhub/DAMA_INFO/issues)
+[최신 업데이트·전체 변경 기록](CHANGELOG.md) · [사용 안내](docs/USAGE.md) · [버전별 릴리스](https://github.com/kjinhub/DAMA_INFO/releases) · [오류 제보·기능 제안](https://github.com/kjinhub/DAMA_INFO/issues)
 
 ![한지 배경의 담아 홈: 달력, 오늘의 일정, 할 일과 최근 기록](assets/screenshots/home.png)
 
