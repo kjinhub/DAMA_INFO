@@ -1,7 +1,6 @@
 {
-  "version": "4.40.1",
   "captureDate": "2026-11-13",
-  "environment": "같은 버전의 웹 시연 환경",
+  "environment": "각 사진에 표시한 버전의 웹 시연 환경",
   "data": "공개용 가상 기록·일정·자작 학습 자료·예시 답안",
   "mobile": "390×844 Chrome touch emulation",
   "images": [
@@ -100,6 +99,22 @@
       "sha256": "dabd5f97b9119ff41066abc3245a24b4abc4622158ef74808cda8ed3da137c0e",
       "version": "4.40.1",
       "captureDate": "2026-11-13"
+    },
+    {
+      "file": "planner-results.png",
+      "width": 519,
+      "height": 236,
+      "sha256": "9578debe12c5a0bb38d492a39a4863c9c75749e99aa4816b16f6a8efeb809624",
+      "version": "4.40.2",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "undated-actions.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "dd7c3dd2f22734565c216caa3a2f133acacefb42b0c30218776b43aeab297392",
+      "version": "4.40.2",
+      "captureDate": "2026-11-13"
     }
   ],
   "studyDemonstration": {
@@ -110,5 +125,10 @@
     "correct": 4,
     "learningImprovementMeasured": false
   },
-  "reflectionDemonstration": "일반 사색 질문에 예시 답변을 작성하는 실제 카드"
+  "reflectionDemonstration": "일반 사색 질문에 예시 답변을 작성하는 실제 카드",
+  "versions": [
+    "4.40.1",
+    "4.40.2"
+  ],
+  "plannerDemonstration": "가상 예시를 직접 수정한 초안을 실제 등록하고 저장 결과를 확인한 장면; 새 AI 추출 성능의 증거가 아님"
 }
