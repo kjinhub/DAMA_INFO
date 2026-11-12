@@ -25,4 +25,3 @@
 ## 과거 지식 지도
 
 ![과거 지식 지도의 v0.2.0 과거 화면](../assets/screenshots/archive/v0.2.0/knowledge-map.png)
-
