@@ -1,0 +1,114 @@
+{
+  "version": "4.40.1",
+  "captureDate": "2026-11-13",
+  "environment": "같은 버전의 웹 시연 환경",
+  "data": "공개용 가상 기록·일정·자작 학습 자료·예시 답안",
+  "mobile": "390×844 Chrome touch emulation",
+  "images": [
+    {
+      "file": "calendar-month.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "c280581e1810c70fb50155250a340dc7dd9208da6f2ceada91a6cf64bddc932b",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "calendar-week.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "0acf375f556ed36a561571169b34feaa082f2aa631726de11e2ca042a04f0544",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "home.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "c0f13f1ced1e469cad594f4c3ca60178f95b0fbb6c43cc9e2992bb55f59cc7dc",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "mobile-home.png",
+      "width": 390,
+      "height": 844,
+      "sha256": "5cf750650e1cce892f1ca9fbae6a5166b94bd60df8804e5b8a759ae401860a72",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "notes.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "5b4daf117389362bd45e27eccc9c1370cf45775e8cc089770036c6efc15f62ca",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "pomodoro-night.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "69ec194eb6a375889fcdc7b9bf7f5aa38ad013573db48c3576b93bd84b8b557c",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "record-reflection.png",
+      "width": 381,
+      "height": 394,
+      "sha256": "79744ab645d57a741849a8d7b7e56d69547a30eb18a67b2d0fad43d4fc9ba36d",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "study-question.png",
+      "width": 1440,
+      "height": 960,
+      "sha256": "a83fc11038bd173acd63760f5b63a340502e4b483e208b555510487e645f8741",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "study-results.png",
+      "width": 1440,
+      "height": 960,
+      "sha256": "233deabc99f04d3cbecfa7cc33aa3971cde8c5f1c02be8d023d761af8d15302a",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "study-schedule.png",
+      "width": 1440,
+      "height": 960,
+      "sha256": "50fee5f3a22a4248b9f9be4c3377e5356a78cd08146e702a7ce39b44b2c85aa0",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "study-setup.png",
+      "width": 1440,
+      "height": 960,
+      "sha256": "c6df792d300309a093ea7526e179c460d0efed9c5860dd4ae303534bc54e924e",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    },
+    {
+      "file": "thought-tower.png",
+      "width": 1440,
+      "height": 1000,
+      "sha256": "dabd5f97b9119ff41066abc3245a24b4abc4622158ef74808cda8ed3da137c0e",
+      "version": "4.40.1",
+      "captureDate": "2026-11-13"
+    }
+  ],
+  "studyDemonstration": {
+    "material": "공개 시연용으로 직접 작성한 가상 학습 안내문",
+    "actualAiGeneration": true,
+    "providerRequests": 3,
+    "answers": 5,
+    "correct": 4,
+    "learningImprovementMeasured": false
+  },
+  "reflectionDemonstration": "일반 사색 질문에 예시 답변을 작성하는 실제 카드"
+}
