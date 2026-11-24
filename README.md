@@ -26,7 +26,7 @@
 
 ---
 
-[담아 열기](https://dama-kjinhub-2026.duckdns.org) · [최신 업데이트·전체 변경 기록](CHANGELOG.md) · [사용 안내](docs/USAGE.md) · [버전별 릴리스](https://github.com/kjinhub/DAMA_INFO/releases) · [오류 제보·기능 제안](https://github.com/kjinhub/DAMA_INFO/issues)
+[담아 열기](https://dailydama.co.kr) · [최신 업데이트·전체 변경 기록](CHANGELOG.md) · [사용 안내](docs/USAGE.md) · [버전별 릴리스](https://github.com/kjinhub/DAMA_INFO/releases) · [오류 제보·기능 제안](https://github.com/kjinhub/DAMA_INFO/issues)
 
 아래는 **v4.40.1 웹의 실제 화면**입니다. **2026-11-13**에 공개용 가상 기록·일정으로 촬영했습니다. [전체 화면 모음](docs/SCREENS.md)에서 학습·성찰·모바일 흐름을, [사용 안내](docs/USAGE.md)에서 조작 방법을 볼 수 있습니다.
 
@@ -34,7 +34,11 @@
 
 이 저장소는 담아의 프로젝트 소개, 사용 안내와 업데이트 소식을 제공합니다. 앱 소스코드는 별도의 비공개 저장소에서 관리합니다.
 
-## 최신 업데이트 v4.56.1 · 2026-11-24
+## 최신 업데이트 v4.56.2 · 2026-11-24
+
+담아의 기본 주소가 [dailydama.co.kr](https://dailydama.co.kr)로 바뀌었어요. 기존 주소와 www 주소로 열어도 새 주소의 같은 화면으로 이어집니다. 인증·비밀번호 재설정 메일과 공유 카드도 새 주소를 사용합니다. 새 주소에서는 처음 한 번 다시 로그인해 주세요. [사용 안내](docs/USAGE.md) · [변경 기록](CHANGELOG.md)
+
+## 이전 업데이트 v4.56.1 · 2026-11-24
 
 생각의 탑에서 페이지를 편하게 스크롤하고, 최근 돌과 아래쪽 누적 높이를 구분해 볼 수 있어요. 높이 단위·기간 선택·기록 쓰기·문양 안내를 정리하고 화면 주소로 다시 열 수 있어요. [사용 안내](docs/USAGE.md) · [변경 기록](CHANGELOG.md)
 
